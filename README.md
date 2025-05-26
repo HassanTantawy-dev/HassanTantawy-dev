@@ -7,9 +7,9 @@
 
 ### 💡 What I'm doing now:
 
-- 🧠 I'm currently learning web development technologies like **HTML** and **CSS**.
+- 🧠 I'm currently learning web development technologies like **HTML** and **CSS** and **JavaScript**.
 - 📚 I'm learning about **Frontend technologies** and how to build responsive user interfaces.
-- ✅ I have already learned **C++** and **Python**.
+- ✅ I have already learned **C++** and **OOP** and **Python**.
 - 🎯 I'm passionate about **problem solving** and developing **effective, creative solutions**.
 
 ---
