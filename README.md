@@ -20,6 +20,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hassan.tantawy.794?igsh=MWNrMmw3cnJ5bnhlaA%3D%3D&utm_source=qr)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@hassan.tantawy.794?igshid=NTc4MTIwNjQ2YQ==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-tantawy-39ab27363)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Hassan--Tantawy-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Hassan-Tantawy)
+
 
 ---
 
