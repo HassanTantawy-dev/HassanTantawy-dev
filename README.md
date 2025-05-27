@@ -16,7 +16,6 @@
 
 ### 🌐 Connect with me
 
-### 🤝 Connect with me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/hassan.tantawy.7942)
 &nbsp;
@@ -33,7 +32,6 @@
 
 ### 🛠️ Technologies I work with
 
-### 🛠️ Technologies I work with
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)](https://img.shields.io)
 &nbsp;
