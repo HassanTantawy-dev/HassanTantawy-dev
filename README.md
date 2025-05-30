@@ -1,4 +1,4 @@
-# Hello, I'm Hassan Tantawy 👋
+<h1 align="center">Hi, I'm Hassan Tantawy 👋</h1>
 
 👨‍💻 I'm a software engineer with a strong passion for solving problems and writing clean, efficient code.  
 🎓 I'm currently a student at the Faculty of Computers and Information.
@@ -42,5 +42,10 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://img.shields.io)
 &nbsp;
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://img.shields.io)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://img.shields.io)
+&nbsp;
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://img.shields.io)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://img.shields.io)
 
 ---
