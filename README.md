@@ -1,3 +1,8 @@
+![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
+
+<img align="right" src="![Capture](https://github.com/user-attachments/assets/9cf2641b-c7af-4ffc-af15-ef81c23f525c)
+" width="30%">
+
 <h1 align="center">Hi, I'm Hassan Tantawy 👋</h1>
 
 👨‍💻 I'm a software engineer with a strong passion for solving problems and writing clean, efficient code.  
