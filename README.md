@@ -1,9 +1,8 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
-<img align="right" src="![Capture](https://github.com/user-attachments/assets/9cf2641b-c7af-4ffc-af15-ef81c23f525c)
-" width="30%">
 
-<h1 align="center">Hi, I'm Hassan Tantawy 👋</h1>
+<a align="right" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Hassan+Tantawy;Software+Engineer%F0%9F%92%BB" alt="Typing SVG" /></a>
+<br>
 
 👨‍💻 I'm a software engineer with a strong passion for solving problems and writing clean, efficient code.  
 🎓 I'm currently a student at the Faculty of Computers and Information.
