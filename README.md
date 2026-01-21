@@ -1,8 +1,12 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Software%20Engineer&section=header&reversal=false"/>
+</div>
 
-<a align="right" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Hassan+Tantawy;Software+Engineer%F0%9F%92%BB" alt="Typing SVG" /></a>
-<br>
+<h1 align="center" style="margin-top:35">
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Hassan+Tantawy;Software+Engineer%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
+
 
 👨‍💻 I'm a software engineer with a strong passion for solving problems and writing clean, efficient code.  
 🎓 I'm currently a student at the Faculty of Computers and Information.
