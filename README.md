@@ -57,3 +57,45 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://img.shields.io)
 
 ---
+# 👋 Hi, I'm Hassan Tantawy
+
+## 🌟 About Me
+I'm Hassan, a passionate and creative frontend developer focused on building modern, interactive web apps.  
+I enjoy **learning new technologies**, solving problems, and turning ideas into real projects.  
+Currently working with **React**, **JavaScript**, and **Bootstrap** to create practical and impactful websites.  
+
+## 💻 Programming Languages
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,bootstrap,react" />
+  </a>
+</p>
+
+## 🛠️ Tools & Technologies
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  </a>
+</p>
+
+
+
+## 📫 Contact Me
+</h1>
+<div align="center">
+  <a href="mailto:hassantantawy2727@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hassan-hammam-159981334">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/0201229604243">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="">
+    <img src="https://hassantantawy.netlify.app/img/Hassan_Mohamed%20Tantawy_Software%20Engineer_resume.pdf" alt="Resume"/>
+  </a>
+  <a href="https://hassantantawy.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
