@@ -49,6 +49,9 @@ Currently working with **React**, **JavaScript**, and **Bootstrap** to create pr
   <a href="https://hassantantawy.netlify.app/img/Hassan_Mohamed%20Tantawy_Software%20Engineer_resume.pdf">
   <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
   </a>
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HassanTantawy-dev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="7asssan-mohamed" />
+</div>
 </div>
 <h2>
 GitHub Statistics:
