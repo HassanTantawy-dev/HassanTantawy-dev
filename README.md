@@ -50,3 +50,11 @@ Currently working with **React**, **JavaScript**, and **Bootstrap** to create pr
   <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
   </a>
 </div>
+<h2>
+GitHub Statistics:
+  
+</h2> 
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=HassanTantawy-dev&theme=tokyonight)
+</div>
