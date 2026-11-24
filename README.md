@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3400&pause=1300&color=2563EB&center=true&vCenter=true&width=560&height=36&lines=React+%C2%B7+Laravel+%C2%B7+MySQL;I+build+products%2C+not+just+pages;Open+to+internships+and+junior+roles" alt="React · Laravel · MySQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3400&pause=1300&color=2563EB&center=true&vCenter=true&width=700&height=32&lines=React+%C2%B7+Laravel+%C2%B7+MySQL;I+build+products%2C+not+just+pages;Open+to+internships+and+junior+roles" alt="React · Laravel · MySQL" />
 </p>
 
 <p align="center">
