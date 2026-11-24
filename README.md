@@ -56,7 +56,7 @@ I enjoy **learning new technologies**, solving problems, and turning ideas into 
   <a href="https://wa.me/201229604243">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="[https://hassantantawy.netlify.app/](https://hassantantawy-dev.github.io/portfolio-project/)">
+  <a href="https://hassantantawy-dev.github.io/portfolio-project/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://hassantantawy.netlify.app/img/Hassan_Mohamed%20Tantawy_Software%20Engineer_resume.pdf">
