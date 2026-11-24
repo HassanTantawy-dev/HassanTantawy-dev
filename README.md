@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://hassantantawy-dev.github.io/portfolio-project/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/hassan-tantawy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hassan-tantawy-39ab27363"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:eng.hassantantawy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/201229604243"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <img src="https://komarev.com/ghpvc/?username=HassanTantawy-dev&style=flat-square&color=2563EB&label=profile+views" alt="Profile views" />
@@ -33,7 +33,6 @@ I take an idea from an empty repo to a deployed app: a responsive **React + Tail
 | :--- | :--- | :--- | :--- |
 | **AstroSync** | Astronaut health monitoring console for **NASA Space Apps 2026** — per-crew baselines, deviation alerts, and a cited source for every threshold. | React 19 · TypeScript · Tailwind 4 · tRPC · Drizzle · MySQL | [repo](https://github.com/HassanTantawy-dev/AstroSync) |
 | **AI Resume Builder** | Form-based resume builder with live preview and print-ready A4 PDF export (dynamic filename, page-break protection). | React · JavaScript · Bootstrap | [repo](https://github.com/HassanTantawy-dev/ai-resume-builder) |
-| **ByWay — Courses Platform** | E-learning platform: browse courses, watch lessons, track progress. | React · Bootstrap · REST APIs | [repo](https://github.com/HassanTantawy-dev/React_Finalproject_Creativa) · [live](https://react-finalproject-creativa.vercel.app) |
 | **Luli Kids — E-Commerce** | Kids' clothing store: catalog, cart, wishlist, and user registration. | HTML · CSS · JavaScript · Bootstrap | [repo](https://github.com/HassanTantawy-dev/E-Commerce) |
 | **Portfolio** | The site that presents all of the above. | HTML · CSS · JavaScript | [repo](https://github.com/HassanTantawy-dev/portfolio-project) · [live](https://hassantantawy-dev.github.io/portfolio-project/) |
 
