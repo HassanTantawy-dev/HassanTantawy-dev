@@ -1,76 +1,69 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Software%20Engineer&section=header&reversal=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,55:14306b,100:2563eb&height=210&section=header&text=Hassan%20Tantawy&fontSize=52&fontColor=ffffff&desc=Full-Stack%20Web%20Developer&descAlignY=70&descSize=19" alt="Hassan Tantawy" />
 </div>
 
-<h1 align="center" style="margin-top:35">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Hassan+Tantawy;Full-Stack+Web+Developer%F0%9F%92%BB" alt="Typing SVG" />
-</h1>
-
-## 🌟 About Me
-
-I'm Hassan, a 3rd-year Computer Science student at the Faculty of Computers and Information, Zagazig University, and a full-stack web developer.
-I build modern, responsive web apps with **React** and **Tailwind** on the front end and **PHP/Laravel** with **MySQL** on the back end.
-I enjoy **learning new technologies**, solving problems, and turning ideas into real projects.
-
-## 🧰 Tech Stack
-
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3400&pause=1300&color=2563EB&center=true&vCenter=true&width=560&height=36&lines=React+%C2%B7+Laravel+%C2%B7+MySQL;I+build+products%2C+not+just+pages;Open+to+internships+and+junior+roles" alt="React · Laravel · MySQL" />
 </p>
 
-**Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+<p align="center">
+  <a href="https://hassantantawy-dev.github.io/portfolio-project/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hassan-tantawy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:eng.hassantantawy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/201229604243"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <img src="https://komarev.com/ghpvc/?username=HassanTantawy-dev&style=flat-square&color=2563EB&label=profile+views" alt="Profile views" />
 </p>
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,php" />
-</p>
+## 👋 About
 
-**Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,figma,postman" />
-</p>
+Third-year **Computer Science** student at the Faculty of Computers and Information, Zagazig University — and a full-stack web developer who ships complete products, not fragments.
 
-## 🚀 Featured Projects
+I take an idea from an empty repo to a deployed app: a responsive **React + Tailwind** interface, a validated API, a **MySQL** schema, and a real URL people can open. I care about the details users actually feel — fast pages, clear forms, no dead ends.
 
-| Project | Description | Stack |
-|---|---|---|
-| [**AI Resume Builder**](https://github.com/HassanTantawy-dev/Ai-Resume-Bulider) | Form-based resume builder with real-time preview and one-click A4 PDF export. | React, JavaScript, Bootstrap |
-| [**ByWay (Courses Platform)**](https://github.com/HassanTantawy-dev/Courses-platform) | E-learning platform to browse courses, watch lessons and track progress. | React, Bootstrap |
-| [**E-Commerce**](https://github.com/HassanTantawy-dev/E-Commerce) | Online store front end with cart, wishlist and user registration. | HTML, CSS, JavaScript, Bootstrap |
-| [**Portfolio**](https://github.com/HassanTantawy-dev/portfolio-project) ([live](https://hassantantawy-dev.github.io/portfolio-project/)) | Personal portfolio website. | HTML, CSS |
-| [**Astro_Sync**](https://github.com/HassanTantawy-dev/Project_Nasa) | NASA Space Apps Challenge 2026 project (team AstroSync): astronaut health monitoring console with personal baselines and deviation alerts. | React, TypeScript, Tailwind, tRPC, MySQL |
+## 🔭 Currently
 
-## 📫 Contact Me
+- Building **AstroSync**, an astronaut health-monitoring console for **NASA Space Apps Challenge 2026** (team *AstroSync*).
+- Going deeper on the backend: **Laravel**, REST API design, and testing.
+- Picking up **PySpark** for data-engineering fundamentals.
+- Looking for an **internship** or **junior full-stack** role where I can own real features.
+
+## 🚀 Selected Work
+
+| Project | What it does | Stack | |
+| :--- | :--- | :--- | :--- |
+| **AstroSync** | Astronaut health monitoring console for **NASA Space Apps 2026** — per-crew baselines, deviation alerts, and a cited source for every threshold. | React 19 · TypeScript · Tailwind 4 · tRPC · Drizzle · MySQL | [→](https://github.com/HassanTantawy-dev/Project_Nasa) |
+| **AI Resume Builder** | Form-based resume builder with live preview and print-ready A4 PDF export (dynamic filename, page-break protection). | React · JavaScript · Bootstrap | [→](https://github.com/HassanTantawy-dev/Ai-Resume-Bulider) |
+| **ByWay — Courses Platform** | E-learning platform: browse courses, watch lessons, track progress. | React · Bootstrap · REST APIs | [→](https://github.com/HassanTantawy-dev/React_Finalproject_Creativa) · [live](https://react-finalproject-creativa.vercel.app) |
+| **Luli Kids — E-Commerce** | Kids' clothing store: catalog, cart, wishlist, and user registration. | HTML · CSS · JavaScript · Bootstrap | [→](https://github.com/HassanTantawy-dev/E-Commerce) |
+| **Portfolio** | The site that presents all of the above. | HTML · CSS · JavaScript | [→](https://github.com/HassanTantawy-dev/portfolio-project) · [live](https://hassantantawy-dev.github.io/portfolio-project/) |
+
+## 🧰 Stack
+
+<table>
+  <tr>
+    <td align="center" width="25%"><sub><b>FRONTEND</b></sub><br/><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js" alt="Frontend" /></td>
+    <td align="center" width="25%"><sub><b>BACKEND</b></sub><br/><img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend" /></td>
+    <td align="center" width="25%"><sub><b>LANGUAGES</b></sub><br/><img src="https://skillicons.dev/icons?i=cpp,python,java" alt="Languages" /></td>
+    <td align="center" width="25%"><sub><b>TOOLING</b></sub><br/><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tooling" /></td>
+  </tr>
+</table>
+
+<sub><b>Also studied:</b> Algorithms · Data Structures · OOP · Databases (MySQL / Oracle SQL) · Operating Systems · Computer Architecture · Discrete Mathematics · Computer Graphics (C++ / OpenGL) · Big Data (PySpark, MapReduce, HDFS) · Networks (Java Sockets) · Cybersecurity · Cloud Computing</sub>
+
+<sub><b>Training:</b> Web Development Diploma (84 hrs) · ITI · NTI · Creativa Zagazig · G-Camp · Mahara Tech</sub>
+
+## 📊 Activity
 
 <div align="center">
-  <a href="mailto:eng.hassantantawy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hassan-tantawy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/201229604243">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://hassantantawy-dev.github.io/portfolio-project/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://hassantantawy.netlify.app/img/Hassan_Mohamed%20Tantawy_Software%20Engineer_resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HassanTantawy-dev&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanTantawy-dev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HassanTantawy-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Contribution activity" />
 </div>
 
-## 📊 GitHub Statistics
+## 📫 Contact
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HassanTantawy-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanTantawy-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HassanTantawy-dev&theme=tokyonight" alt="GitHub Streak" />
+  <b>Open to internships, junior full-stack roles, and freelance web work.</b><br/>
+  <a href="mailto:eng.hassantantawy@gmail.com">eng.hassantantawy@gmail.com</a> · Belbies, Ash-Sharqia, Egypt
 </div>
