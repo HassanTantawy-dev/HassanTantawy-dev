@@ -33,7 +33,7 @@ I take an idea from an empty repo to a deployed app: a responsive **React + Tail
 | :--- | :--- | :--- | :--- |
 | **AstroSync** | Astronaut health monitoring console for **NASA Space Apps 2026** — per-crew baselines, deviation alerts, and a cited source for every threshold. | React 19 · TypeScript · Tailwind 4 · tRPC · Drizzle · MySQL | [repo](https://github.com/HassanTantawy-dev/AstroSync) |
 | **AI Resume Builder** | Form-based resume builder with live preview and print-ready A4 PDF export (dynamic filename, page-break protection). | React · JavaScript · Bootstrap | [repo](https://github.com/HassanTantawy-dev/ai-resume-builder) |
-| **ByWay — Courses Platform** | E-learning platform: browse courses, watch lessons, track progress. Built with [@hassan4366](https://github.com/hassan4366). | React · Bootstrap · REST APIs | [repo](https://github.com/HassanTantawy-dev/Courses-platform) |
+| **Courses Platform** | E-learning platform: course catalogue, categories, course details, reviews, cart and checkout. Team project with [@hassan4366](https://github.com/hassan4366). | React 19 · React Router 7 · Axios | [repo](https://github.com/HassanTantawy-dev/Courses-platform) |
 | **Luli Kids — E-Commerce** | Kids' clothing store: catalog, cart, wishlist, and user registration. | HTML · CSS · JavaScript · Bootstrap | [repo](https://github.com/HassanTantawy-dev/E-Commerce) · [live](https://hassantantawy-dev.github.io/E-Commerce/) |
 | **Portfolio** | The site that presents all of the above. | HTML · CSS · JavaScript | [repo](https://github.com/HassanTantawy-dev/portfolio-project) · [live](https://hassantantawy-dev.github.io/portfolio-project/) |
 
