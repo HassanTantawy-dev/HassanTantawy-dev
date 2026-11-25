@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://hassantantawy-dev.github.io/portfolio-project/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://hassantantawy-dev.github.io/portfolio-project/Hassan_Tantawy_CV.pdf"><img src="https://img.shields.io/badge/Resume-PDF-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/hassan-tantawy-39ab27363"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:eng.hassantantawy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/201229604243"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
